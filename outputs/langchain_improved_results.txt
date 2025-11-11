@@ -1,0 +1,145 @@
+
+======================================================================
+❓ QUERY: What genetic loci have been identified for Alzheimer's disease?
+======================================================================
+
+💡 ANSWER:
+over 20 disease-associated genomic loci
+
+📊 Sources Used: 5
+
+📚 CITATIONS:
+
+  [30617256_sent_1] Abstract_30617256
+  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
+
+  [31055733_sent_1] Abstract_31055733
+  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
+
+  [30448613_sent_1] Abstract_30448613
+  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
+
+  [30617256_sent_5] Abstract_30617256
+  "Meta-analysis identified 29 risk loci, implicating 215 potential causative genes...."
+
+  [30617256_sent_2] Abstract_30617256
+  "Yet these only explain a small proportion of the genetic variance, indicating that undiscovered loci remain...."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: How does hypertension affect Alzheimer's disease risk?
+======================================================================
+
+💡 ANSWER:
+[31055733_sent_2] Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques and neurofibrillary tangles formation as well as hippocampal atrophy.
+
+📊 Sources Used: 5
+
+📚 CITATIONS:
+
+  [31055733_sent_2] Abstract_31055733
+  "Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques a..."
+
+  [31055733_sent_1] Abstract_31055733
+  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
+
+  [30617256_sent_1] Abstract_30617256
+  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
+
+  [30448613_sent_1] Abstract_30448613
+  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
+
+  [30617256_sent_8] Abstract_30617256
+  "We show strong genetic correlations with multiple health-related outcomes, and Mendelian randomization results suggest a..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: What genes are associated with AD and what are their biological functions?
+======================================================================
+
+💡 ANSWER:
+[30448613_sent_2] The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding DNA regions, and their functional impacts on AD are as yet poorly understood. [31055733_sent_7] The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with AD at P  5E-06 in previous genome-wide association studies (GWAS). [31055733_sent_5] The closest genes to 14 polymorphisms were not associated with AD at P  5E-06 in previous genome-wide association studies (GWAS). [31055733_sent_7] The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain.
+
+📊 Sources Used: 5
+
+📚 CITATIONS:
+
+  [30448613_sent_2] Abstract_30448613
+  "The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding D..."
+
+  [31055733_sent_7] Abstract_31055733
+  "In addition, 30 genes demonstrated evidence of group-specific associations with AD at the false discovery rates (FDR) < ..."
+
+  [31055733_sent_8] Abstract_31055733
+  "The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with ..."
+
+  [31055733_sent_5] Abstract_31055733
+  "The closest genes to 14 polymorphisms were not associated with AD at P < 5E-06 in previous genome-wide association studi..."
+
+  [30448613_sent_7] Abstract_30448613
+  "The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain...."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: What is the role of APOE and other genes in Alzheimer's pathology?
+======================================================================
+
+💡 ANSWER:
+Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia).
+
+📊 Sources Used: 5
+
+📚 CITATIONS:
+
+  [31055733_sent_1] Abstract_31055733
+  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
+
+  [30617256_sent_1] Abstract_30617256
+  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
+
+  [30448613_sent_1] Abstract_30448613
+  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
+
+  [31055733_sent_9] Abstract_31055733
+  "These genes may serve as a list of prioritized candidates for future functional studies...."
+
+  [30617256_sent_6] Abstract_30617256
+  "Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia)...."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: What are the findings from genome-wide association studies of Alzheimer's?
+======================================================================
+
+💡 ANSWER:
+Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphisms (P  5E-06) that were located outside the chromosome 19q13 region and were significant either in hypertensive or non-hypertensive groups
+
+📊 Sources Used: 5
+
+📚 CITATIONS:
+
+  [30617256_sent_1] Abstract_30617256
+  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
+
+  [30617256_sent_3] Abstract_30617256
+  "Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,3..."
+
+  [31055733_sent_4] Abstract_31055733
+  "Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphis..."
+
+  [30448613_sent_1] Abstract_30448613
+  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
+
+  [31055733_sent_1] Abstract_31055733
+  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
+
+======================================================================
+

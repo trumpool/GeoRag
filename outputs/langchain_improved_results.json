@@ -1,0 +1,137 @@
+[
+  {
+    "query": "What genetic loci have been identified for Alzheimer's disease?",
+    "answer": "over 20 disease-associated genomic loci",
+    "citations": {
+      "30617256_sent_1": {
+        "text": "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.",
+        "source": "Abstract_30617256"
+      },
+      "31055733_sent_1": {
+        "text": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.",
+        "source": "Abstract_31055733"
+      },
+      "30448613_sent_1": {
+        "text": "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).",
+        "source": "Abstract_30448613"
+      },
+      "30617256_sent_5": {
+        "text": "Meta-analysis identified 29 risk loci, implicating 215 potential causative genes.",
+        "source": "Abstract_30617256"
+      },
+      "30617256_sent_2": {
+        "text": "Yet these only explain a small proportion of the genetic variance, indicating that undiscovered loci remain.",
+        "source": "Abstract_30617256"
+      }
+    },
+    "num_sources": 5
+  },
+  {
+    "query": "How does hypertension affect Alzheimer's disease risk?",
+    "answer": "[31055733_sent_2] Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques and neurofibrillary tangles formation as well as hippocampal atrophy.",
+    "citations": {
+      "31055733_sent_2": {
+        "text": "Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques and neurofibrillary tangles formation as well as hippocampal atrophy.",
+        "source": "Abstract_31055733"
+      },
+      "31055733_sent_1": {
+        "text": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.",
+        "source": "Abstract_31055733"
+      },
+      "30617256_sent_1": {
+        "text": "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.",
+        "source": "Abstract_30617256"
+      },
+      "30448613_sent_1": {
+        "text": "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).",
+        "source": "Abstract_30448613"
+      },
+      "30617256_sent_8": {
+        "text": "We show strong genetic correlations with multiple health-related outcomes, and Mendelian randomization results suggest a protective effect of cognitive ability on AD risk.",
+        "source": "Abstract_30617256"
+      }
+    },
+    "num_sources": 5
+  },
+  {
+    "query": "What genes are associated with AD and what are their biological functions?",
+    "answer": "[30448613_sent_2] The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding DNA regions, and their functional impacts on AD are as yet poorly understood. [31055733_sent_7] The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with AD at P  5E-06 in previous genome-wide association studies (GWAS). [31055733_sent_5] The closest genes to 14 polymorphisms were not associated with AD at P  5E-06 in previous genome-wide association studies (GWAS). [31055733_sent_7] The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain.",
+    "citations": {
+      "30448613_sent_2": {
+        "text": "The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding DNA regions, and their functional impacts on AD are as yet poorly understood.",
+        "source": "Abstract_30448613"
+      },
+      "31055733_sent_7": {
+        "text": "In addition, 30 genes demonstrated evidence of group-specific associations with AD at the false discovery rates (FDR) < 0.05 in our gene-based and transcriptome-wide association analyses.",
+        "source": "Abstract_31055733"
+      },
+      "31055733_sent_8": {
+        "text": "The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with AD at P < 5E-06 in previous GWAS.",
+        "source": "Abstract_31055733"
+      },
+      "31055733_sent_5": {
+        "text": "The closest genes to 14 polymorphisms were not associated with AD at P < 5E-06 in previous genome-wide association studies (GWAS).",
+        "source": "Abstract_31055733"
+      },
+      "30448613_sent_7": {
+        "text": "The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain.",
+        "source": "Abstract_30448613"
+      }
+    },
+    "num_sources": 5
+  },
+  {
+    "query": "What is the role of APOE and other genes in Alzheimer's pathology?",
+    "answer": "Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia).",
+    "citations": {
+      "31055733_sent_1": {
+        "text": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.",
+        "source": "Abstract_31055733"
+      },
+      "30617256_sent_1": {
+        "text": "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.",
+        "source": "Abstract_30617256"
+      },
+      "30448613_sent_1": {
+        "text": "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).",
+        "source": "Abstract_30448613"
+      },
+      "31055733_sent_9": {
+        "text": "These genes may serve as a list of prioritized candidates for future functional studies.",
+        "source": "Abstract_31055733"
+      },
+      "30617256_sent_6": {
+        "text": "Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia).",
+        "source": "Abstract_30617256"
+      }
+    },
+    "num_sources": 5
+  },
+  {
+    "query": "What are the findings from genome-wide association studies of Alzheimer's?",
+    "answer": "Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphisms (P  5E-06) that were located outside the chromosome 19q13 region and were significant either in hypertensive or non-hypertensive groups",
+    "citations": {
+      "30617256_sent_1": {
+        "text": "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.",
+        "source": "Abstract_30617256"
+      },
+      "30617256_sent_3": {
+        "text": "Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,378 controls).",
+        "source": "Abstract_30617256"
+      },
+      "31055733_sent_4": {
+        "text": "Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphisms (P < 5E-06) that were located outside the chromosome 19q13 region and were significant either in hypertensive or non-hypertensive groups.",
+        "source": "Abstract_31055733"
+      },
+      "30448613_sent_1": {
+        "text": "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).",
+        "source": "Abstract_30448613"
+      },
+      "31055733_sent_1": {
+        "text": "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.",
+        "source": "Abstract_31055733"
+      }
+    },
+    "num_sources": 5
+  }
+]
