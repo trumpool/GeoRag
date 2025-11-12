@@ -465,6 +465,8 @@ Our evaluation framework measures three dimensions:
 
 #### 1. Retrieval Quality
 
+![alt text](outputs/embedding_viz_query1.png)
+
 | Metric | Description | Target |
 |--------|-------------|--------|
 | **Precision@K** | Relevant docs / Retrieved docs | >0.7 |
