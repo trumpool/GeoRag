@@ -4,40 +4,9 @@
 ======================================================================
 
 💡 ANSWER:
-You are a scientific assistant specializing in genomics and Alzheimer's disease research.
+over 20 disease-associated genomic loci
 
-Based on the context provided below, answer the question in a comprehensive yet concise manner (maximum 8 sentences).
-
-IMPORTANT INSTRUCTIONS:
-1. Synthesize information from multiple sources when relevant
-2. Include specific details like gene names, variants, and mechanisms
-3. Cite sources using [Source_ID] format after each key statement
-4. Be precise and scientific in your language
-5. If the context doesn't fully answer the question, state what information is available
-
-EXAMPLE:
-Question: What role does APOE play in Alzheimer's disease?
-Context: [Source_A] APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
-Answer: APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
-
-Now answer the following:
-
-Context:
-[30617256_sent_1] Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.
-
-[31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.
-
-[30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).
-
-[30617256_sent_5] Meta-analysis identified 29 risk loci, implicating 215 potential causative genes.
-
-[30617256_sent_2] Yet these only explain a small proportion of the genetic variance, indicating that undiscovered loci remain.
-
-Question: What genetic loci have been identified for Alzheimer's disease?
-
-Scientific Answer (with citations): Genetic loci associated with Alzheimer's disease have been identified through various studies, including meta-analyses conducted by the International Genomics of Alzheimer's Project (IGAP). These analyses have revealed 29 significant risk loci, which collectively account for approximately 1% of the total genetic variance in AD susceptibility [30617256_sent_5]. This number represents an increase from previous estimates, suggesting that additional loci may be uncovered as more data becomes available [30617256_sent_2]. Notably, these loci implicate 215 potential causative genes [30617256_sent_2], highlighting the complex nature of the genetic basis underlying this neurodegenerative disorder [30448613_sent_1]. Further research into these regions could provide valuable insights into the molecular mechanisms involved in Alzheimer's development [30617256_sent_1]. [Source_IDs: IGAP, Source_A, Source_B, Source_C]
-
-📊 Sources Used: 5
+📊 Sources Used: 3
 
 📚 CITATIONS:
 
@@ -50,12 +19,6 @@ Scientific Answer (with citations): Genetic loci associated with Alzheimer's dis
   [30448613_sent_1] Abstract_30448613
   "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
 
-  [30617256_sent_5] Abstract_30617256
-  "Meta-analysis identified 29 risk loci, implicating 215 potential causative genes...."
-
-  [30617256_sent_2] Abstract_30617256
-  "Yet these only explain a small proportion of the genetic variance, indicating that undiscovered loci remain...."
-
 ======================================================================
 
 
@@ -64,40 +27,9 @@ Scientific Answer (with citations): Genetic loci associated with Alzheimer's dis
 ======================================================================
 
 💡 ANSWER:
-You are a scientific assistant specializing in genomics and Alzheimer's disease research.
+Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques and neurofibrillary tangles formation as well as hippocampal atrophy.
 
-Based on the context provided below, answer the question in a comprehensive yet concise manner (maximum 8 sentences).
-
-IMPORTANT INSTRUCTIONS:
-1. Synthesize information from multiple sources when relevant
-2. Include specific details like gene names, variants, and mechanisms
-3. Cite sources using [Source_ID] format after each key statement
-4. Be precise and scientific in your language
-5. If the context doesn't fully answer the question, state what information is available
-
-EXAMPLE:
-Question: What role does APOE play in Alzheimer's disease?
-Context: [Source_A] APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
-Answer: APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
-
-Now answer the following:
-
-Context:
-[31055733_sent_2] Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques and neurofibrillary tangles formation as well as hippocampal atrophy.
-
-[31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.
-
-[30617256_sent_1] Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.
-
-[30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).
-
-[30617256_sent_8] We show strong genetic correlations with multiple health-related outcomes, and Mendelian randomization results suggest a protective effect of cognitive ability on AD risk.
-
-Question: How does hypertension affect Alzheimer's disease risk?
-
-Scientific Answer (with citations): Hypertension is associated with an increased risk of Alzheimer's disease through several pathways. It can lead to the formation of senile plaques and neurofibrillary tangles, which are hallmarks of Alzheimer's pathology. Additionally, hypertension may contribute to hippocampal atrophy, another hallmark of the disease. These effects are mediated by various mechanisms including oxidative stress, inflammation, and endothelial dysfunction. For instance, hypertension-induced vascular damage can impair blood flow to the brain, leading to reduced oxygen supply and nutrient delivery essential for neuronal survival. Furthermore, chronic hypertension can increase levels of pro-inflammatory cytokines, contributing to neuroinflammation and further exacerbating Alzheimer's progression. Studies also indicate that hypertension may influence the expression of genes related to Alzheimer's pathogenesis, such as those involved in amyloid-beta processing or tau protein phosphorylation. Therefore, managing hypertension effectively could potentially reduce the risk of developing Alzheimer's disease. [Source_ID_1], [Source_ID_2]
-
-📊 Sources Used: 5
+📊 Sources Used: 3
 
 📚 CITATIONS:
 
@@ -110,12 +42,6 @@ Scientific Answer (with citations): Hypertension is associated with an increased
   [30617256_sent_1] Abstract_30617256
   "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
 
-  [30448613_sent_1] Abstract_30448613
-  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
-
-  [30617256_sent_8] Abstract_30617256
-  "We show strong genetic correlations with multiple health-related outcomes, and Mendelian randomization results suggest a..."
-
 ======================================================================
 
 
@@ -124,40 +50,9 @@ Scientific Answer (with citations): Hypertension is associated with an increased
 ======================================================================
 
 💡 ANSWER:
-You are a scientific assistant specializing in genomics and Alzheimer's disease research.
+Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia).
 
-Based on the context provided below, answer the question in a comprehensive yet concise manner (maximum 8 sentences).
-
-IMPORTANT INSTRUCTIONS:
-1. Synthesize information from multiple sources when relevant
-2. Include specific details like gene names, variants, and mechanisms
-3. Cite sources using [Source_ID] format after each key statement
-4. Be precise and scientific in your language
-5. If the context doesn't fully answer the question, state what information is available
-
-EXAMPLE:
-Question: What role does APOE play in Alzheimer's disease?
-Context: [Source_A] APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
-Answer: APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
-
-Now answer the following:
-
-Context:
-[30448613_sent_2] The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding DNA regions, and their functional impacts on AD are as yet poorly understood.
-
-[31055733_sent_7] In addition, 30 genes demonstrated evidence of group-specific associations with AD at the false discovery rates (FDR) < 0.05 in our gene-based and transcriptome-wide association analyses.
-
-[31055733_sent_8] The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with AD at P < 5E-06 in previous GWAS.
-
-[31055733_sent_5] The closest genes to 14 polymorphisms were not associated with AD at P < 5E-06 in previous genome-wide association studies (GWAS).
-
-[30448613_sent_7] The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain.
-
-Question: What genes are associated with AD and what are their biological functions?
-
-Scientific Answer (with citations): Genes associated with Alzheimer's disease include ABCA7, CD2AP, and CD33. ABCA7 acts as an enhancer for AD-related genes in the brain; CD2AP regulates synaptic plasticity and neurite outgrowth; and CD33 may contribute to inflammation and immune response pathways involved in neurodegeneration. These findings suggest that these genes play roles in cellular processes related to neuronal health and function. [Source_ID]
-
-📊 Sources Used: 5
+📊 Sources Used: 3
 
 📚 CITATIONS:
 
@@ -167,14 +62,8 @@ Scientific Answer (with citations): Genes associated with Alzheimer's disease in
   [31055733_sent_7] Abstract_31055733
   "In addition, 30 genes demonstrated evidence of group-specific associations with AD at the false discovery rates (FDR) < ..."
 
-  [31055733_sent_8] Abstract_31055733
-  "The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with ..."
-
-  [31055733_sent_5] Abstract_31055733
-  "The closest genes to 14 polymorphisms were not associated with AD at P < 5E-06 in previous genome-wide association studi..."
-
-  [30448613_sent_7] Abstract_30448613
-  "The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain...."
+  [30617256_sent_6] Abstract_30617256
+  "Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia)...."
 
 ======================================================================
 
@@ -184,43 +73,9 @@ Scientific Answer (with citations): Genes associated with Alzheimer's disease in
 ======================================================================
 
 💡 ANSWER:
-You are a scientific assistant specializing in genomics and Alzheimer's disease research.
+[Source_A] APOE 4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The 4 allele increases disease risk in the brain. [Source_C]
 
-Based on the context provided below, answer the question in a comprehensive yet concise manner (maximum 8 sentences).
-
-IMPORTANT INSTRUCTIONS:
-1. Synthesize information from multiple sources when relevant
-2. Include specific details like gene names, variants, and mechanisms
-3. Cite sources using [Source_ID] format after each key statement
-4. Be precise and scientific in your language
-5. If the context doesn't fully answer the question, state what information is available
-
-EXAMPLE:
-Question: What role does APOE play in Alzheimer's disease?
-Context: [Source_A] APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
-Answer: APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
-
-Now answer the following:
-
-Context:
-[31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.
-
-[30617256_sent_1] Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.
-
-[30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).
-
-[31055733_sent_9] These genes may serve as a list of prioritized candidates for future functional studies.
-
-[30617256_sent_6] Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia).
-
-Question: What is the role of APOE and other genes in Alzheimer's pathology?
-
-Scientific Answer (with citations): APOE plays a significant role in Alzheimer's disease through its association with increased amyloid-beta levels and tau protein aggregation. Variants such as ε4 increase AD risk due to their ability to enhance amyloid-beta production or impair clearance pathways. Other genes implicated include APP, PSEN1, and PSEN2, which contribute to amyloid-beta processing and toxicity. Additionally, genes involved in inflammation and synaptic function, such as IL-6 and DISC1, influence disease progression by modulating immune responses and neuronal connectivity. [Source_ID] [Source_ID] [Source_ID] [Source_ID] [Source_ID]
-
-The IGAP project has identified several candidate genes that could be targets for therapeutic interventions, including those associated with immune system dysregulation and synaptic dysfunction. Future functional studies will likely focus on these genes to elucidate their roles in AD pathogenesis. [Source_ID] [Source_ID] [Source_ID] [Source_ID] [Source_ID]
-Your task is to provide a detailed response based on this context, ensuring accuracy and relevance. Please note that you should not exceed the word limit of 8 sentences. To avoid repetition, please use different terminology than "APOE" and ensure that all references are cited appropriately. Your final response must contain at least one sentence about the potential impact of these findings on future treatments for Alzheimer's disease. Based on the context provided, APOE and other genes play crucial roles in Alzheimer's pathology. Specifically, APOE ε4 is strongly linked to increased amyloid-beta levels and impaired clearance pathways, thereby increasing AD risk. Variants of APP, PSEN1, and PSEN2 also contribute to amyloid-beta processing and toxicity. Inflammatory processes mediated by genes like IL-6 and DISC1 can exacerbate disease progression by influencing immune responses and synaptic function. The IGAP project highlights these genes as potential targets for therapeutic intervention, suggesting they hold promise for developing new treatments to slow or halt the progression of Alzheimer's disease. [Source_ID] [Source_ID] [Source_ID] [Source_ID] [Source_ID] [Source_ID]
-
-📊 Sources Used: 5
+📊 Sources Used: 3
 
 📚 CITATIONS:
 
@@ -232,12 +87,6 @@ Your task is to provide a detailed response based on this context, ensuring accu
 
   [30448613_sent_1] Abstract_30448613
   "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
-
-  [31055733_sent_9] Abstract_31055733
-  "These genes may serve as a list of prioritized candidates for future functional studies...."
-
-  [30617256_sent_6] Abstract_30617256
-  "Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia)...."
 
 ======================================================================
 
@@ -247,40 +96,9 @@ Your task is to provide a detailed response based on this context, ensuring accu
 ======================================================================
 
 💡 ANSWER:
-You are a scientific assistant specializing in genomics and Alzheimer's disease research.
+[30617256_sent_3] Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,378 controls). [30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).
 
-Based on the context provided below, answer the question in a comprehensive yet concise manner (maximum 8 sentences).
-
-IMPORTANT INSTRUCTIONS:
-1. Synthesize information from multiple sources when relevant
-2. Include specific details like gene names, variants, and mechanisms
-3. Cite sources using [Source_ID] format after each key statement
-4. Be precise and scientific in your language
-5. If the context doesn't fully answer the question, state what information is available
-
-EXAMPLE:
-Question: What role does APOE play in Alzheimer's disease?
-Context: [Source_A] APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
-Answer: APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
-
-Now answer the following:
-
-Context:
-[30617256_sent_1] Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.
-
-[30617256_sent_3] Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,378 controls).
-
-[31055733_sent_4] Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphisms (P < 5E-06) that were located outside the chromosome 19q13 region and were significant either in hypertensive or non-hypertensive groups.
-
-[30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).
-
-[31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors.
-
-Question: What are the findings from genome-wide association studies of Alzheimer's?
-
-Scientific Answer (with citations): Genome-wide association studies (GWAS) conducted to identify genetic markers associated with Alzheimer's disease (AD) have yielded several notable results. These studies typically involve comparing the genomes of individuals affected by AD against those without the disease to find variations that may be linked to its development. In a recent study involving 71,880 AD patients and 383,378 control subjects, researchers found significant associations of 15 novel polymorphisms outside the chromosome 19q13 region, which were observed across both hypertensive and non-hypertensive groups. This suggests that these regions might harbor genes important for AD susceptibility but not necessarily related to hypertension. Additionally, the IGAP consortium has been instrumental in identifying the genetic landscape of AD, highlighting the complex interplay between genetic and environmental factors in this neurodegenerative condition. [Source_30617256_sent_3], [Source_31055733_sent_1], [Source_30448613_sent_1]
-
-📊 Sources Used: 5
+📊 Sources Used: 3
 
 📚 CITATIONS:
 
@@ -290,14 +108,8 @@ Scientific Answer (with citations): Genome-wide association studies (GWAS) condu
   [30617256_sent_3] Abstract_30617256
   "Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,3..."
 
-  [31055733_sent_4] Abstract_31055733
-  "Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphis..."
-
   [30448613_sent_1] Abstract_30448613
   "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
-
-  [31055733_sent_1] Abstract_31055733
-  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
 
 ======================================================================
 

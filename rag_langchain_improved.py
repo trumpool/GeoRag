@@ -186,8 +186,9 @@ Context:
 [Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
 
 Answer: 
-APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
+APOE ε4 is the strongest genetic risk factor for Alzheimer's disease [Source_A]. The ε4 allele increases disease risk in the brain [Source_B].
 
+Summarize the context and provide a well-cited answer, don't just copy-paste.
 Now answer the following:
 
 Context:
@@ -317,7 +318,7 @@ def main():
     for query_obj in queries:
         query = query_obj["query"]
         # Retrieve 20 docs initially, re-rank to top 5
-        result = rag.query(query, initial_k=20, rerank_k=5)
+        result = rag.query(query, initial_k=8, rerank_k=3)
         results.append(result)
         print(rag.format_output(result))
     
