@@ -26,7 +26,7 @@ class GeoRAG:
     
     def __init__(self,
                  embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2",
-                 llm_model: str = "Qwen/Qwen2.5-1.5B-Instruct",
+                 llm_model: str = "google/flan-t5-base",
                  cross_encoder_model: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"):
         """Initialize with Qwen2.5-1.5B-Instruct for better instruction following."""
         print(f"="*70)
@@ -178,17 +178,15 @@ class GeoRAG:
 
 Based on the context provided below, answer the question in a comprehensive yet concise manner (maximum 8 sentences).
 
-IMPORTANT INSTRUCTIONS:
-1. Synthesize information from multiple sources when relevant
-2. Include specific details like gene names, variants, and mechanisms
-3. Cite sources using [Source_ID] format after each key statement
-4. Be precise and scientific in your language
-5. If the context doesn't fully answer the question, state what information is available
-
+IMPORTANT INSTRUCTIONS:Cite sources using [Source_ID] format after each key statement. Ensure citations correspond to the provided context.
 EXAMPLE:
 Question: What role does APOE play in Alzheimer's disease?
-Context: [Source_A] APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
-Answer: APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
+Context: 
+[Source_A] APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease. 
+[Source_B] The ε4 allele increases amyloid-beta accumulation in the brain.
+
+Answer: 
+APOE ε4 is the strongest genetic risk factor for late-onset Alzheimer's disease [Source_A]. The ε4 allele increases disease risk by promoting amyloid-beta accumulation in the brain [Source_B].
 
 Now answer the following:
 
