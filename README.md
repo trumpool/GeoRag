@@ -16,7 +16,6 @@ A high-performance RAG system specialized for Alzheimer's disease genomics resea
 - [Evaluation](#evaluation)
 - [Cost Analysis](#cost-analysis)
 - [Project Structure](#project-structure)
-- [Troubleshooting](#troubleshooting)
 
 ---
 
