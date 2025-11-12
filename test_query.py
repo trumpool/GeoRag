@@ -6,7 +6,7 @@ from rag_langchain_improved import GeoRAG
 # Initialize system with Qwen for better instruction following
 rag = GeoRAG(
     embedding_model="sentence-transformers/all-MiniLM-L6-v2",
-    llm_model="Qwen/Qwen2.5-1.5B-Instruct",
+    llm_model="google/flan-t5-base",
     cross_encoder_model="cross-encoder/ms-marco-MiniLM-L-6-v2"
 )
 

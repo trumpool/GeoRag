@@ -1,5 +1,15 @@
-{"id": "q1", "query": "What genetic loci have been identified for Alzheimer's disease?"}
-{"id": "q2", "query": "How does hypertension affect Alzheimer's disease risk?"}
-{"id": "q3", "query": "What genes are associated with AD and what are their biological functions?"}
-{"id": "q4", "query": "What is the role of APOE and other genes in Alzheimer's pathology?"}
-{"id": "q5", "query": "What are the findings from genome-wide association studies of Alzheimer's?"}
+{"id": "q1", "query": "What is the relationship between cardiovascular risk factors and Alzheimer's disease genetics?"}
+{"id": "q2", "query": "Which novel genes were identified as associated with both AD and lipid metabolism?"}
+{"id": "q3", "query": "What are the main findings from the IGAP consortium regarding AD-associated SNPs?"}
+{"id": "q4", "query": "How do MBLAC1, MINK1, and DDB2 genes relate to Alzheimer's disease?"}
+{"id": "q5", "query": "What role do immune-related tissues and microglia play in AD genetics?"}
+{"id": "q6", "query": "How does age affect the genetic architecture of Alzheimer's disease?"}
+{"id": "q7", "query": "What genes show differential effects between younger and older AD onset groups?"}
+{"id": "q8", "query": "How does hypertension influence the genetic risk of Alzheimer's disease?"}
+{"id": "q9", "query": "What is the function of expression quantitative trait loci (eQTL) in AD-associated genes?"}
+{"id": "q10", "query": "Which chromosomal regions contain novel AD risk loci identified in recent GWAS?"}
+{"id": "q11", "query": "How does plasma lipid profile contribute to AD genetic risk beyond APOE?"}
+{"id": "q12", "query": "What is AD-by-proxy and how does it correlate with clinically diagnosed Alzheimer's disease?"}
+{"id": "q13", "query": "What are the specific genes like BIN1, PICALM, and MS4A4E associated with AD?"}
+{"id": "q14", "query": "How do genes like ABCA7, CD2AP, and CD33 act as eQTL in brain tissue?"}
+{"id": "q15", "query": "What biological pathways are enriched in Alzheimer's disease genetics?"}

@@ -1,0 +1,202 @@
+{
+  "summary": {
+    "precision": [
+      0.25,
+      0.75,
+      0.5
+    ],
+    "recall": [
+      0.1667,
+      1.0,
+      0.5
+    ],
+    "f1": [
+      0.2,
+      0.8571,
+      0.5
+    ],
+    "citation_accuracy": [
+      1.0,
+      1.0,
+      0
+    ],
+    "has_citations": [
+      true,
+      true,
+      false
+    ]
+  },
+  "all_results": [
+    {
+      "query": "What is the relationship between cardiovascular risk factors and Alzheimer's disease genetics?",
+      "retrieval_metrics": {
+        "initial_retrieval": {
+          "precision@k": 0.3,
+          "recall@k": 0.5,
+          "f1@k": 0.375,
+          "mrr": 1.0,
+          "num_retrieved": 10,
+          "num_relevant_retrieved": 3,
+          "num_ground_truth": 6
+        },
+        "after_reranking": {
+          "precision@k": 0.25,
+          "recall@k": 0.1667,
+          "f1@k": 0.2,
+          "mrr": 1.0,
+          "num_retrieved": 4,
+          "num_relevant_retrieved": 1,
+          "num_ground_truth": 6
+        },
+        "retrieved_docs": {
+          "initial": [
+            "30413934_sent_1",
+            "30413934_sent_10",
+            "31055733_sent_1",
+            "30617256_sent_1",
+            "31055733_sent_2",
+            "30617256_sent_8",
+            "30617256_sent_9",
+            "30413934_sent_11",
+            "30979435_sent_4",
+            "30979435_sent_1"
+          ],
+          "reranked": [
+            "30413934_sent_1",
+            "31055733_sent_1",
+            "30979435_sent_1",
+            "30617256_sent_1"
+          ]
+        }
+      },
+      "citation_metrics": {
+        "total_citations": 4,
+        "valid_citations": 4,
+        "invalid_citations": 0,
+        "unique_cited_docs": 4,
+        "citation_accuracy": 1.0,
+        "citation_density": 1.0,
+        "source_coverage": 1.0,
+        "has_citations": true,
+        "invalid_citation_list": []
+      },
+      "answer_quality": null,
+      "generated_answer": "[30413934_sent_1] Cardiovascular (CV)- and lifestyle-associated risk factors (RFs) are increasingly recognized as important for Alzheimer's disease pathogenesis. [31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors. [30979435_sent_1] The risk of APOE for Alzheimer's disease (AD) is modified by age. [30617256_sent_1]",
+      "num_sources_used": 4
+    },
+    {
+      "query": "How do MBLAC1, MINK1, and DDB2 genes relate to Alzheimer's disease?",
+      "retrieval_metrics": {
+        "initial_retrieval": {
+          "precision@k": 0.3,
+          "recall@k": 1.0,
+          "f1@k": 0.4615,
+          "mrr": 1.0,
+          "num_retrieved": 10,
+          "num_relevant_retrieved": 3,
+          "num_ground_truth": 3
+        },
+        "after_reranking": {
+          "precision@k": 0.75,
+          "recall@k": 1.0,
+          "f1@k": 0.8571,
+          "mrr": 1.0,
+          "num_retrieved": 4,
+          "num_relevant_retrieved": 3,
+          "num_ground_truth": 3
+        },
+        "retrieved_docs": {
+          "initial": [
+            "30413934_sent_8",
+            "30617256_sent_1",
+            "30448613_sent_1",
+            "31055733_sent_1",
+            "30617256_sent_9",
+            "30979435_sent_4",
+            "30413934_sent_6",
+            "30413934_sent_7",
+            "30617256_sent_6",
+            "30979435_sent_1"
+          ],
+          "reranked": [
+            "30413934_sent_8",
+            "30413934_sent_6",
+            "30413934_sent_7",
+            "31055733_sent_1"
+          ]
+        }
+      },
+      "citation_metrics": {
+        "total_citations": 4,
+        "valid_citations": 4,
+        "invalid_citations": 0,
+        "unique_cited_docs": 3,
+        "citation_accuracy": 1.0,
+        "citation_density": 0.5,
+        "source_coverage": 0.75,
+        "has_citations": true,
+        "invalid_citation_list": []
+      },
+      "answer_quality": null,
+      "generated_answer": "[30413934_sent_8] Expression of MBLAC1, SPI1, MINK1, and DDB2 was differentially altered within postmortem AD brains. [30413934_sent_7] In meta-analyses across three independent cohorts, we found four novel loci within MBLAC1 (chromosome 7, meta-p = 1.44 x 10(-9)), MINK1 (chromosome 17, meta-p = 1.98 x 10(-7)) and two chromosome 11 SNPs within the MTCH2/SPI1 region (closest gene = DDB2, meta-p = 7.01 x 10(-7) and closest gene = MYBPC3, meta-p = 5.62 x 10(-8)). [30413934_sent_7] In a large 'AD-by-proxy' cohort from the UK Biobank, we replicated three of the four novel AD/CV pleiotropic SNPs, namely variants within MINK1, MBLAC1, and DDB2. [31055733_sent_1]",
+      "num_sources_used": 4
+    },
+    {
+      "query": "What are the main findings from the IGAP consortium regarding AD-associated SNPs?",
+      "retrieval_metrics": {
+        "initial_retrieval": {
+          "precision@k": 0.4,
+          "recall@k": 1.0,
+          "f1@k": 0.5714,
+          "mrr": 1.0,
+          "num_retrieved": 10,
+          "num_relevant_retrieved": 4,
+          "num_ground_truth": 4
+        },
+        "after_reranking": {
+          "precision@k": 0.5,
+          "recall@k": 0.5,
+          "f1@k": 0.5,
+          "mrr": 0.3333,
+          "num_retrieved": 4,
+          "num_relevant_retrieved": 2,
+          "num_ground_truth": 4
+        },
+        "retrieved_docs": {
+          "initial": [
+            "30448613_sent_3",
+            "30448613_sent_4",
+            "30448613_sent_2",
+            "30413934_sent_7",
+            "30448613_sent_7",
+            "30448613_sent_5",
+            "30448613_sent_1",
+            "30448613_sent_6",
+            "30413934_sent_5",
+            "30448613_sent_8"
+          ],
+          "reranked": [
+            "30448613_sent_4",
+            "30448613_sent_7",
+            "30448613_sent_1",
+            "30448613_sent_2"
+          ]
+        }
+      },
+      "citation_metrics": {
+        "total_citations": 0,
+        "valid_citations": 0,
+        "invalid_citations": 0,
+        "unique_cited_docs": 0,
+        "citation_accuracy": 0,
+        "citation_density": 0.0,
+        "source_coverage": 0.0,
+        "has_citations": false,
+        "invalid_citation_list": []
+      },
+      "answer_quality": null,
+      "generated_answer": "The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding DNA regions, and their functional impacts on AD are as yet poorly understood.",
+      "num_sources_used": 4
+    }
+  ]
+}

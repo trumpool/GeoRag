@@ -1,17 +1,147 @@
 
 ======================================================================
-❓ QUERY: What genetic loci have been identified for Alzheimer's disease?
+❓ QUERY: What is the relationship between cardiovascular risk factors and Alzheimer's disease genetics?
 ======================================================================
 
 💡 ANSWER:
-over 20 disease-associated genomic loci
+[30413934_sent_1] Cardiovascular (CV)- and lifestyle-associated risk factors (RFs) are increasingly recognized as important for Alzheimer's disease pathogenesis. [31055733_sent_1] Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci. [30413934_sent_10] We pinpoint a subset of cardiovascular-associated genes that strongly increase the risk for AD.
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30413934_sent_1] Abstract_30413934
+  "Cardiovascular (CV)- and lifestyle-associated risk factors (RFs) are increasingly recognized as important for Alzheimer'..."
+
+  [31055733_sent_1] Abstract_31055733
+  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
+
+  [30617256_sent_1] Abstract_30617256
+  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
+
+  [30413934_sent_10] Abstract_30413934
+  "We pinpoint a subset of cardiovascular-associated genes that strongly increase the risk for AD...."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: Which novel genes were identified as associated with both AD and lipid metabolism?
+======================================================================
+
+💡 ANSWER:
+[30413934_sent_10]
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30413934_sent_9] Abstract_30413934
+  "Beyond APOE, we show that the polygenic component of AD is enriched for lipid-associated RFs...."
+
+  [30413934_sent_4] Abstract_30413934
+  "In fold enrichment plots, we observed robust genetic enrichment in AD as a function of plasma lipids (TG, TC, LDL, and H..."
+
+  [30617256_sent_9] Abstract_30617256
+  "These results are a step forward in identifying the genetic factors that contribute to AD risk and add novel insights in..."
+
+  [30413934_sent_10] Abstract_30413934
+  "We pinpoint a subset of cardiovascular-associated genes that strongly increase the risk for AD...."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: What are the main findings from the IGAP consortium regarding AD-associated SNPs?
+======================================================================
+
+💡 ANSWER:
+The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding DNA regions, and their functional impacts on AD are as yet poorly understood.
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30448613_sent_4] Abstract_30448613
+  "For (1), we confirmed that 12 AD-associated coding common SNPs and five nonsynonymous rare variants are in linkage diseq..."
+
+  [30448613_sent_7] Abstract_30448613
+  "The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain...."
+
+  [30448613_sent_1] Abstract_30448613
+  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
+
+  [30448613_sent_2] Abstract_30448613
+  "The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding D..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: How do MBLAC1, MINK1, and DDB2 genes relate to Alzheimer's disease?
+======================================================================
+
+💡 ANSWER:
+[30413934_sent_8] Expression of MBLAC1, SPI1, MINK1 and DDB2 was differentially altered within postmortem AD brains. [31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors. [30617256_sent_1] Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci. [30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30413934_sent_8] Abstract_30413934
+  "Expression of MBLAC1, SPI1, MINK1 and DDB2 was differentially altered within postmortem AD brains...."
+
+  [31055733_sent_1] Abstract_31055733
+  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
+
+  [30617256_sent_1] Abstract_30617256
+  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
+
+  [30448613_sent_1] Abstract_30448613
+  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: What role do immune-related tissues and microglia play in AD genetics?
+======================================================================
+
+💡 ANSWER:
+Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia). [30617256_sent_9] These results are a step forward in identifying the genetic factors that contribute to AD risk and add novel insights into the neurobiology of AD. [30617256_sent_3]
 
 📊 Sources Used: 3
 
 📚 CITATIONS:
 
-  [30617256_sent_1] Abstract_30617256
-  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
+  [30617256_sent_6] Abstract_30617256
+  "Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia)...."
+
+  [30617256_sent_9] Abstract_30617256
+  "These results are a step forward in identifying the genetic factors that contribute to AD risk and add novel insights in..."
+
+  [30617256_sent_3] Abstract_30617256
+  "Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,3..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: How does age affect the genetic architecture of Alzheimer's disease?
+======================================================================
+
+💡 ANSWER:
+[30979435_sent_1] The risk of APOE for Alzheimer's disease (AD) is modified by age. [31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors. [30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic architecture of Alzheimer's disease (AD).
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30979435_sent_4] Abstract_30979435
+  "Stratified gene-based genome-wide association studies and polygenic variation analyses were performed in the younger (60..."
+
+  [30979435_sent_1] Abstract_30979435
+  "The risk of APOE for Alzheimer's disease (AD) is modified by age...."
 
   [31055733_sent_1] Abstract_31055733
   "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
@@ -23,18 +153,148 @@ over 20 disease-associated genomic loci
 
 
 ======================================================================
-❓ QUERY: How does hypertension affect Alzheimer's disease risk?
+❓ QUERY: What genes show differential effects between younger and older AD onset groups?
 ======================================================================
 
 💡 ANSWER:
-Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques and neurofibrillary tangles formation as well as hippocampal atrophy.
+30 genes demonstrated evidence of group-specific associations with AD at the false discovery rates (FDR)  0.05 in our gene-based and transcriptome-wide association analyses. [31055733_sent_5] The closest genes to 14 polymorphisms were not associated with AD at P  5E-06 in previous genome-wide association studies (GWAS).
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30979435_sent_3] Abstract_30979435
+  "We aim to investigate age-related genetic heterogeneity of AD and identify genomic loci with differential effects across..."
+
+  [30979435_sent_4] Abstract_30979435
+  "Stratified gene-based genome-wide association studies and polygenic variation analyses were performed in the younger (60..."
+
+  [31055733_sent_7] Abstract_31055733
+  "In addition, 30 genes demonstrated evidence of group-specific associations with AD at the false discovery rates (FDR) < ..."
+
+  [31055733_sent_5] Abstract_31055733
+  "The closest genes to 14 polymorphisms were not associated with AD at P < 5E-06 in previous genome-wide association studi..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: How does hypertension influence the genetic risk of Alzheimer's disease?
+======================================================================
+
+💡 ANSWER:
+[31055733_sent_2] Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques and neurofibrillary tangles formation as well as hippocampal atrophy. [30979435_sent_1] The risk of APOE for Alzheimer's disease (AD) is modified by age.
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [31055733_sent_1] Abstract_31055733
+  "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
+
+  [30413934_sent_1] Abstract_30413934
+  "Cardiovascular (CV)- and lifestyle-associated risk factors (RFs) are increasingly recognized as important for Alzheimer'..."
+
+  [31055733_sent_2] Abstract_31055733
+  "Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques a..."
+
+  [30979435_sent_1] Abstract_30979435
+  "The risk of APOE for Alzheimer's disease (AD) is modified by age...."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: What is the function of expression quantitative trait loci (eQTL) in AD-associated genes?
+======================================================================
+
+💡 ANSWER:
+[30448613_sent_7] The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain. [30448613_sent_8] Our approach for identifying proxies and examining eQTL highlighted potentially impactful, novel gene regulatory phenomena pertinent to the AD phenotype. [30979435_sent_3] We aim to investigate age-related genetic heterogeneity of AD and identify genomic loci with differential effects across age.
 
 📊 Sources Used: 3
 
 📚 CITATIONS:
 
-  [31055733_sent_2] Abstract_31055733
-  "Hypertension is one of the AD risk factors that has been linked to underlying pathological changes like senile plaques a..."
+  [30448613_sent_7] Abstract_30448613
+  "The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain...."
+
+  [30448613_sent_8] Abstract_30448613
+  "Our approach for identifying proxies and examining eQTL highlighted potentially impactful, novel gene regulatory phenome..."
+
+  [30979435_sent_3] Abstract_30979435
+  "We aim to investigate age-related genetic heterogeneity of AD and identify genomic loci with differential effects across..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: Which chromosomal regions contain novel AD risk loci identified in recent GWAS?
+======================================================================
+
+💡 ANSWER:
+[31055733_sent_8] The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with AD at P  5E-06 in previous GWAS. [31055733_sent_4] Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphisms (P  5E-06) that were located outside the chromosome 19q13 region and were significant either in hypertensive or non-hypertensive groups. [31055733_sent_6] Also, four of them were located within two chromosomal regions (i.e., 3q13.11 and 17q21.2) that were not associated with AD at P  5E-06 before. [30448613_sent_2] The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding DNA regions, and their functional impacts on AD are as yet poorly understood.
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [31055733_sent_8] Abstract_31055733
+  "The chromosomal regions corresponding to four genes (i.e., 2p13.1, 9p13.3, 17q12, and 18q21.1) were not associated with ..."
+
+  [31055733_sent_4] Abstract_31055733
+  "Our genome-wide association analyses revealed significant associations of 15 novel potentially AD-associated polymorphis..."
+
+  [31055733_sent_6] Abstract_31055733
+  "Also, four of them were located within two chromosomal regions (i.e., 3q13.11 and 17q21.2) that were not associated with..."
+
+  [30448613_sent_2] Abstract_30448613
+  "The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding D..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: How does plasma lipid profile contribute to AD genetic risk beyond APOE?
+======================================================================
+
+💡 ANSWER:
+[30413934_sent_4] In fold enrichment plots, we observed robust genetic enrichment in AD as a function of plasma lipids (TG, TC, LDL, and HDL); we found minimal AD genetic enrichment conditional on BMI, T2D, CAD, and WHR. [30413934_sent_5] Beyond APOE, at conjunction FDR  0.05 we identified 90 SNPs on 19 different chromosomes that were jointly associated with AD and CV-associated outcomes.
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30413934_sent_2] Abstract_30413934
+  "Beyond the epsilon4 allele of apolipoprotein E (APOE), comparatively little is known about whether CV-associated genes a..."
+
+  [30413934_sent_9] Abstract_30413934
+  "Beyond APOE, we show that the polygenic component of AD is enriched for lipid-associated RFs...."
+
+  [30413934_sent_4] Abstract_30413934
+  "In fold enrichment plots, we observed robust genetic enrichment in AD as a function of plasma lipids (TG, TC, LDL, and H..."
+
+  [30413934_sent_5] Abstract_30413934
+  "Beyond APOE, at conjunction FDR < 0.05 we identified 90 SNPs on 19 different chromosomes that were jointly associated wi..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: What is AD-by-proxy and how does it correlate with clinically diagnosed Alzheimer's disease?
+======================================================================
+
+💡 ANSWER:
+[30617256_sent_4] AD-by-proxy, based on parental diagnoses, showed strong genetic correlation with AD (rg = 0.81). [30617256_sent_3] Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,378 controls). [31055733_sent_1] Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non-genetic factors. [30617256_sent_1] Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci.
+
+📊 Sources Used: 4
+
+📚 CITATIONS:
+
+  [30617256_sent_4] Abstract_30617256
+  "AD-by-proxy, based on parental diagnoses, showed strong genetic correlation with AD (rg = 0.81)...."
+
+  [30617256_sent_3] Abstract_30617256
+  "Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,3..."
 
   [31055733_sent_1] Abstract_31055733
   "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
@@ -46,21 +306,38 @@ Hypertension is one of the AD risk factors that has been linked to underlying pa
 
 
 ======================================================================
-❓ QUERY: What genes are associated with AD and what are their biological functions?
+❓ QUERY: What are the specific genes like BIN1, PICALM, and MS4A4E associated with AD?
 ======================================================================
 
 💡 ANSWER:
-Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia).
+[30979435_sent_7] APOE region, BIN1, OR2S2, MS4A4E, and PICALM were identified at the gene-based genome-wide significance (p  2.73 x 10(-6)) with larger effects at younger age (except MS4A4E). [30617256_sent_9] These results are a step forward in identifying the genetic factors that contribute to AD risk and add novel insights into the neurobiology of AD.
 
-📊 Sources Used: 3
+📊 Sources Used: 2
 
 📚 CITATIONS:
 
-  [30448613_sent_2] Abstract_30448613
-  "The identified and/or confirmed 19 single-nucleotide polymorphisms (SNPs) associated with AD are located on non-coding D..."
+  [30979435_sent_7] Abstract_30979435
+  "APOE region, BIN1, OR2S2, MS4A4E, and PICALM were identified at the gene-based genome-wide significance (p < 2.73 x 10(-..."
 
-  [31055733_sent_7] Abstract_31055733
-  "In addition, 30 genes demonstrated evidence of group-specific associations with AD at the false discovery rates (FDR) < ..."
+  [30617256_sent_9] Abstract_30617256
+  "These results are a step forward in identifying the genetic factors that contribute to AD risk and add novel insights in..."
+
+======================================================================
+
+
+======================================================================
+❓ QUERY: How do genes like ABCA7, CD2AP, and CD33 act as eQTL in brain tissue?
+======================================================================
+
+💡 ANSWER:
+The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain
+
+📊 Sources Used: 2
+
+📚 CITATIONS:
+
+  [30448613_sent_7] Abstract_30448613
+  "The IGAP SNPs in ABCA7, CD2AP, and CD33 each acted as eQTL for AD-associated genes in brain...."
 
   [30617256_sent_6] Abstract_30617256
   "Associated genes are strongly expressed in immune-related tissues and cell types (spleen, liver, and microglia)...."
@@ -69,11 +346,11 @@ Associated genes are strongly expressed in immune-related tissues and cell types
 
 
 ======================================================================
-❓ QUERY: What is the role of APOE and other genes in Alzheimer's pathology?
+❓ QUERY: What biological pathways are enriched in Alzheimer's disease genetics?
 ======================================================================
 
 💡 ANSWER:
-[Source_A] APOE 4 is the strongest genetic risk factor for late-onset Alzheimer's disease. [Source_B] The 4 allele increases disease risk in the brain. [Source_C]
+[30617256_sent_1]
 
 📊 Sources Used: 3
 
@@ -82,34 +359,11 @@ Associated genes are strongly expressed in immune-related tissues and cell types
   [31055733_sent_1] Abstract_31055733
   "Alzheimer's disease (AD) is a progressive neurodegenerative disorder caused by the interplay of multiple genetic and non..."
 
-  [30617256_sent_1] Abstract_30617256
-  "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
-
   [30448613_sent_1] Abstract_30448613
   "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
 
-======================================================================
-
-
-======================================================================
-❓ QUERY: What are the findings from genome-wide association studies of Alzheimer's?
-======================================================================
-
-💡 ANSWER:
-[30617256_sent_3] Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,378 controls). [30448613_sent_1] The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alzheimer's disease (AD).
-
-📊 Sources Used: 3
-
-📚 CITATIONS:
-
   [30617256_sent_1] Abstract_30617256
   "Alzheimer's disease (AD) is highly heritable and recent studies have identified over 20 disease-associated genomic loci...."
-
-  [30617256_sent_3] Abstract_30617256
-  "Here, we performed a large genome-wide association study of clinically diagnosed AD and AD-by-proxy (71,880 cases, 383,3..."
-
-  [30448613_sent_1] Abstract_30448613
-  "The International Genomics of Alzheimer's Project (IGAP) is a consortium for characterizing the genetic landscape of Alz..."
 
 ======================================================================
 

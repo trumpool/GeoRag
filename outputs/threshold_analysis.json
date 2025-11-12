@@ -1,0 +1,120 @@
+{
+  "similarity_scores": {
+    "mean": 0.8629589080810547,
+    "median": 0.8584821224212646,
+    "std": 0.15063947439193726,
+    "percentiles": {
+      "25": 0.7763084173202515,
+      "50": 0.8584821224212646,
+      "75": 0.9626942276954651
+    }
+  },
+  "rerank_scores": {
+    "mean": -3.837925858596961,
+    "median": -4.122897386550903,
+    "std": 3.9331296910556732,
+    "percentiles": {
+      "25": -7.055717945098877,
+      "50": -4.122897386550903,
+      "75": -1.796161264181137
+    }
+  },
+  "threshold_tests": [
+    {
+      "sim_threshold": null,
+      "rerank_threshold": null,
+      "initial_docs": 10,
+      "final_docs": 4
+    },
+    {
+      "sim_threshold": null,
+      "rerank_threshold": -1.0,
+      "initial_docs": 10,
+      "final_docs": 2
+    },
+    {
+      "sim_threshold": null,
+      "rerank_threshold": 0.0,
+      "initial_docs": 10,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": null,
+      "rerank_threshold": 1.0,
+      "initial_docs": 10,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.5,
+      "rerank_threshold": null,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.5,
+      "rerank_threshold": -1.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.5,
+      "rerank_threshold": 0.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.5,
+      "rerank_threshold": 1.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.6,
+      "rerank_threshold": null,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.6,
+      "rerank_threshold": -1.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.6,
+      "rerank_threshold": 0.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.6,
+      "rerank_threshold": 1.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.7,
+      "rerank_threshold": null,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.7,
+      "rerank_threshold": -1.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.7,
+      "rerank_threshold": 0.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    },
+    {
+      "sim_threshold": 0.7,
+      "rerank_threshold": 1.0,
+      "initial_docs": 1,
+      "final_docs": 1
+    }
+  ]
+}
